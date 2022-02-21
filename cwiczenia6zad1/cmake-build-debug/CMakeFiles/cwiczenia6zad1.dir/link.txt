@@ -1,3 +1,0 @@
-"D:\clion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cwiczenia6zad1.dir/objects.a
-D:\mingw\bin\ar.exe cr CMakeFiles\cwiczenia6zad1.dir/objects.a @CMakeFiles\cwiczenia6zad1.dir\objects1.rsp
-D:\mingw\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\cwiczenia6zad1.dir/objects.a -Wl,--no-whole-archive  -o cwiczenia6zad1.exe -Wl,--out-implib,libcwiczenia6zad1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cwiczenia6zad1.dir\linklibs.rsp

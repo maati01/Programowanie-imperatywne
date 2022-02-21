@@ -1,3 +1,0 @@
-D:/programowanie imperatywne/cwiczenia3zad3/cmake-build-debug/CMakeFiles/cwiczenia3zad3.dir
-D:/programowanie imperatywne/cwiczenia3zad3/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/programowanie imperatywne/cwiczenia3zad3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

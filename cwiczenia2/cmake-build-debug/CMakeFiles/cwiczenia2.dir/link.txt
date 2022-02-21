@@ -1,2 +1,0 @@
-D:\mingw\bin\ar.exe qc libcwiczenia2.a  CMakeFiles/cwiczenia2.dir/library.c.obj CMakeFiles/cwiczenia2.dir/zaad.c.obj CMakeFiles/cwiczenia2.dir/zad3.c.obj
-D:\mingw\bin\ranlib.exe libcwiczenia2.a
